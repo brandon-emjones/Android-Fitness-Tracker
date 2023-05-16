@@ -9,6 +9,7 @@
     tools:context=".MainActivity">
 
     <RelativeLayout
+        android:id="@+id/weightButton"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="5sp"
@@ -74,6 +75,7 @@
     </RelativeLayout>
 
     <RelativeLayout
+        android:id="@+id/yogaButton"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="5sp"
@@ -138,6 +140,7 @@
     </RelativeLayout>
 
     <RelativeLayout
+        android:id="@+id/heartButton"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="5sp"
